@@ -34,7 +34,7 @@ jobs:
         ./zig-out/bin/github-stats
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        EXCLUDE_REPOS: "*/slint,taichi765/2025_bunkasai_website_clone"
+        EXCLUDE_REPOS: "*/slint,taichi765/2025_bunkasai_website_clone,taichi765/github-stats"
         EXCLUDE_LANGS: ${{ secrets.EXCLUDE_LANGS }}
         EXCLUDE_PRIVATE: "false"
         SILENT: "true"
