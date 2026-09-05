@@ -134,52 +134,52 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #dea584; 
-  width: 27.776%;
+  width: 27.766%;
 " class="progress-item"></span><span style="
   background-color: #7355dd; 
-  width: 22.494%;
+  width: 22.485%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 10.212%;
+  width: 10.208%;
 " class="progress-item"></span><span style="
   background-color: #A97BFF; 
-  width: 5.582%;
+  width: 5.580%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 5.456%;
+  width: 5.481%;
 " class="progress-item"></span><span style="
   background-color: #222c37; 
-  width: 4.449%;
+  width: 4.447%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 3.361%;
+  width: 3.360%;
 " class="progress-item"></span><span style="
   background-color: #2379F4; 
-  width: 3.214%;
+  width: 3.213%;
 " class="progress-item"></span><span style="
   background-color: #ff5a03; 
-  width: 2.988%;
+  width: 2.987%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 2.917%;
+  width: 2.916%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 2.689%;
+  width: 2.688%;
 " class="progress-item"></span><span style="
   background-color: #dd1100; 
-  width: 2.166%;
+  width: 2.165%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 2.083%;
+  width: 2.082%;
 " class="progress-item"></span><span style="
   background-color: #b92381; 
-  width: 0.908%;
+  width: 0.907%;
 " class="progress-item"></span><span style="
   background-color: #aace60; 
-  width: 0.832%;
+  width: 0.831%;
 " class="progress-item"></span><span style="
   background-color: #844FBA; 
-  width: 0.673%;
+  width: 0.678%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 0.639%;
@@ -191,7 +191,7 @@ div.ellipsis {
   width: 0.230%;
 " class="progress-item"></span><span style="
   background-color: #7e7eff; 
-  width: 0.218%;
+  width: 0.223%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
   width: 0.212%;
@@ -200,7 +200,7 @@ div.ellipsis {
   width: 0.125%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.121%;
+  width: 0.120%;
 " class="progress-item"></span><span style="
   background-color: #ff3670; 
   width: 0.021%;
@@ -224,7 +224,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">27.78%</span>
+  <span class="percent">27.77%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -288,7 +288,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go</span>
-  <span class="percent">5.46%</span>
+  <span class="percent">5.48%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
@@ -464,7 +464,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HCL</span>
-  <span class="percent">0.67%</span>
+  <span class="percent">0.68%</span>
 </li>
 <li style="animation-delay: 2550ms;">
   <svg 
